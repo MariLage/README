@@ -4,6 +4,7 @@
   <li>⭐ Intermediário/Avançado C, Javascript, Java, Html, Css </li>
   <li>✏️ Aprendendo C# e Python </li>
   <li>📫 Como me encontrar: https://www.linkedin.com/in/marina-lage-mls13 </li>
+  <li>🎨​ https://www.behance.net/marinalage </li>
 </lu>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariLage&layout=compact&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
